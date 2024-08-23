@@ -88,7 +88,7 @@
         <!-- About Me section -->
         <section id="about" class="section">
             <h2>About Me</h2>
-            <p>hey welcome.</p>
+            <p>My name is Jamar Brown I like reading.</p>
         </section>
 
         <!-- Education section -->
